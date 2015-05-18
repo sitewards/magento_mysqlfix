@@ -1,0 +1,2 @@
+src/app/etc/modules/Warema_MysqlFix.xml app/etc/modules/Warema_MysqlFix.xml
+src/app/code/local/Warema/MysqlFix      app/code/local/Warema/MysqlFix
