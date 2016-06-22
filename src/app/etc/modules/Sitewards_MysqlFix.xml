@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <config>
     <modules>
-        <Warema_MysqlFix>
+        <Sitewards_MysqlFix>
             <active>true</active>
-            <codePool>local</codePool>
+            <codePool>community</codePool>
             <depends>
                 <Mage_Install />
             </depends>
-        </Warema_MysqlFix>
+        </Sitewards_MysqlFix>
     </modules>
 </config>
