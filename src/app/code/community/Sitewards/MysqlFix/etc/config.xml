@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Sitewards_MysqlFix>
+            <version>0.1.1</version>
+        </Sitewards_MysqlFix>
+    </modules>
+    <global>
+        <models>
+            <sitewards_mysqlfix>
+                <class>Sitewards_MysqlFix_Model</class>
+            </sitewards_mysqlfix>
+            <install>
+                <rewrite>
+                    <installer_db_mysql4>Sitewards_MysqlFix_Model_Installer_Db_Mysql4</installer_db_mysql4>
+                </rewrite>
+            </install>
+        </models>
+    </global>
+</config>
