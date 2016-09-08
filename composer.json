@@ -1,0 +1,9 @@
+{
+    "name": "sitewards/mysqlfix",
+    "type": "magento-module",
+    "description": "Sitewards Magento Mysql Fix",
+    "homepage": "https://github.com/sitewards/magento_mysqlfix",
+    "require": {
+        "php": "~5.4"
+    }
+}
